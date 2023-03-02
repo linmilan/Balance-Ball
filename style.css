@@ -102,7 +102,7 @@ body {
     50% {
         transform:translateY(-100%) translateX(220px)
     }
-    0% {
+    100% {
         transform:translateY(-100%) translateX(-30px)
     }
 }
